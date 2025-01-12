@@ -1,0 +1,16 @@
+{
+  "name": "vinnyrags/ender-man",
+  "description": "A WordPress project managed with Composer",
+  "type": "project",
+  "license": "MIT",
+  "require": {},
+  "extra": {},
+  "scripts": {},
+  "autoload": {
+    "psr-4": {
+      "EnderMan\\": "lib/"
+    }
+  },
+  "config": {}
+}
+
